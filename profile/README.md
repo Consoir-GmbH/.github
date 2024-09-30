@@ -17,4 +17,3 @@ Consoir GmbH
 Langfuhr 20  
 41238 Mönchengladbach  
 
-[ROUTENPLANER](#)
