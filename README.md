@@ -1,1 +1,1 @@
-# .github
+# Willkommen bei der Consoir GmbH
