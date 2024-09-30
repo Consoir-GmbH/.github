@@ -1,12 +1,20 @@
-## Hi there 👋
+## Zentrale
+Für alle Fragen rund um die BETA-Software:
 
-<!--
+📞 **Telefon:** +49-(0) 21 66 - 68765-0  
+✉️ **E-Mail:** [info@consoir.de](mailto:info@consoir.de)  
+🕒 **Öffnungszeiten:**  
+- Mo-Do: 8:00 - 17:00 Uhr  
+- Fr: 8:00 - 12:00 Uhr  
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Anfahrt
+So finden Sie uns:
+
+📍 **Adresse:**  
+Consoir GmbH  
+Langfuhr 20  
+41238 Mönchengladbach  
+
+[ROUTENPLANER](#)
